@@ -1,0 +1,94 @@
+
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    background-color: antiquewhite;
+}
+.btn{
+    
+    background-color: rgba(0, 132, 255, 0.925);
+    padding: 6px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+.img{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 5px;
+    image-resolution: 50px;
+    
+}
+#want{
+    font-size: x-large;
+    font-weight: bold;
+}
+#container{
+    text-align: end;
+    top: 50%;
+}
+.image{
+    text-align: center;
+}
+.red{
+    float: left;
+    text-align: center;
+}
+.home{
+    margin-left: 700px;
+}
+#email{
+    margin-top: 0px;
+}
+#contact{
+    float: left;
+    margin-top: 30px;
+}
+#list{
+    float: left;
+    margin-left: 200px;
+}
+#form{
+    float: left;
+    margin-left: 200px;
+}
+#map{
+    float: left;
+    margin-left: 150px;
+}
+#106{
+    font: bold;
+}
+h2{
+    font: bold;
+}
+input [type="text"]
+select{
+    width: 100%;
+}
+#monkey{
+    float: left;
+}
+#bio{
+    margin-left: 350px;
+    font-style: italic;
+    font-size: x-large;
+    margin-bottom: 200px;
+}
+#pic{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
